@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Inessa is a M.I. Candidate and computational political communications researcher at the University of Toronto’s Faculty of Information, with 9 years’ experience in federal and municipal Canadian politics. She graduated Magna Cum Laude from the University of Ottawa where she holds an Honours Bachelor of Arts with a Double Major in Communication and History.\nInessa is passionate about the historical and contemporary experiences of women in the public sphere and aims to increase the participation of women in politics through her work and research. Her current Social Sciences and Humanities Research Council of Canada (SSHRC CGS-M) and Ontario Graduate Scholar (OGS) funded research studies the intersections of the harassment of Canadian female politicians and climate change discourse on Twitter.\nInessa enjoys publicly speaking about her experiences in Canadian politics, parliamentary affairs, and increasing the number of women elected to all levels of government. Please reach out to her if you would like her to present on her experiences, research, or to collaborate."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "inessa_website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]
