@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  favicon: images/headshot.jpg
+  title: "INESSA DE ANGELIS"
+  site-url: "https://inessadeangelis.ca"
+  navbar:
+    background: secondary
+    foreground: dark
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: research.qmd
+        text: Research
+
+  page-footer:
+    background: light
+    center: "© 2024 Inessa De Angelis"
+
+format:
+  html:
+    theme: 
+      - minty
+      - minty.scss
+    mainfont: Lato
+    css: styles.css
+    toc: true
+
+editor: visual
