@@ -2,12 +2,25 @@
 title: "Research"
 ---
 
-My research interests include political communication, women, gender, and politics, quantitative methods, and computational social science. 
+My research interests include political communication, women, gender, and politics, quantitative methods, and computational social science.
 
-Some of my recent research papers include:
+#### Under Consideration
 
-- [Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweets About Climate Change](https://github.com/InessaDeAngelis/torrential_twitter_bell_conf/blob/main/Outputs/Paper/Publication_version/paper_for_pub.pdf) 
+-   [Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweets About Climate Change](https://github.com/InessaDeAngelis/torrential_twitter_bell_conf/blob/main/Outputs/Paper/Publication_version/paper_for_pub.pdf)
 
-- [Women on the Ballot? Investigating Gendered Perceptions of the Emotional Viability of Women to Serve in Politics](/pdfs/women_in_politics_paper_pub.pdf)
+-   [Women on the Ballot? Investigating Gendered Perceptions of the Emotional Viability of Women to Serve in Politics](/pdfs/women_in_politics_paper_pub.pdf)
 
-- [Do More Subdivisions in Wards Increase Voter Turnout? An Analysis of the 2022 Toronto Municipal Election](/pdfs/toronto_elections_paper.pdf)
+
+#### Work in Progress
+
+**Books**
+
+-   [Leaders' Debates in Canada](https://github.com/InessaDeAngelis/Leaders_Debates) (with Spencer McKay and Jacob Robbins-Kanter)
+
+**Papers**
+
+-   [Is this a Harassing Tweet? Using ChatGPT to Categorize Nuanced Forms of Online Harassment](https://github.com/InessaDeAngelis/Tweet_Coding_Methods)
+
+#### Other papers
+
+-   [Do More Subdivisions in Wards Increase Voter Turnout? An Analysis of the 2022 Toronto Municipal Election](/pdfs/toronto_elections_paper.pdf)
