@@ -3,6 +3,7 @@ project:
   output-dir: docs
 
 website:
+  google-analytics: G-072EP0BQB1
   favicon: images/headshot.jpg
   title: "INESSA DE ANGELIS"
   site-url: "https://inessadeangelis.ca"

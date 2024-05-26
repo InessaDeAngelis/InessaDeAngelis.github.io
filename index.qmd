@@ -15,4 +15,4 @@ about:
       href: https://twitter.com/inessadeangelis
 ---
 
-I am a computational political communications researcher and incoming PhD student at the University of Toronto's Faculty of Information. My research examines the online harassment of Canadian female politicians, specifically when Tweeting about climate change and environmental policy. I am passionate about getting more women involved in politics through my work and research.
+I am a computational political communications researcher and incoming PhD student at the University of Toronto's Faculty of Information. Using computational and statistical methods, my research examines the online harassment of Canadian female politicians. I am passionate about getting more women involved in politics through my work and research.
