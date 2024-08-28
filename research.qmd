@@ -2,14 +2,14 @@
 title: "Research"
 ---
 
-My research interests include political communication, women, gender & politics, quantitative methods, and computational social science.
+My research interests include political communication, gender and politics, and quantitative/computational social science methods.
 
 #### Under Review
 
 -   [Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweets About Climate Change](https://github.com/InessaDeAngelis/Torrential_Twitter_Paper/blob/main/Outputs/Paper/paper_for_pub.pdf) *(revised and resubmitted)*
 
 
-#### Work in Progress
+#### Works in Progress
 
 **Books**
 
@@ -24,7 +24,3 @@ My research interests include political communication, women, gender & politics,
 -   [Do More Subdivisions in Wards Increase Voter Turnout? An Analysis of the 2022 Toronto Municipal Election](/pdfs/toronto_elections_paper.pdf)
 
 -   [Women on the Ballot? Investigating Gendered Perceptions of the Emotional Viability of Women to Serve in Politics](/pdfs/women_in_politics_paper_pub.pdf)
-
-#### Datasets
-
--   Canadian Politicians on YouTube *(coming soon)*
