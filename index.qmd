@@ -4,15 +4,6 @@ about:
   template: marquee
   image: images/headshot2.jpg
   image-shape: rectangle
-  links: 
-    - icon: envelope
-      href: mailto:Inessa.DeAngelis@mail.utoronto.ca
-    - icon: github
-      href: https://github.com/InessaDeAngelis
-    - icon: linkedin
-      href: https://www.linkedin.com/in/inessa-de-angelis/
-    - icon: twitter
-      href: https://twitter.com/inessadeangelis
 ---
 
 I am a PhD student at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/). Using computational and statistical methods, my research examines the gendered nature of online harassment faced by Canadian politicians. I am passionate about getting more women involved in politics through my work and research. 

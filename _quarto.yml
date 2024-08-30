@@ -17,6 +17,15 @@ website:
         text: About
       - href: research.qmd
         text: Research
+    right: 
+    - icon: envelope
+      href: "mailto:Inessa.DeAngelis@mail.utoronto.ca"
+    - icon: github
+      href: https://github.com/InessaDeAngelis
+    - icon: linkedin
+      href: https://www.linkedin.com/in/inessa-de-angelis/
+    - icon: twitter
+      href: https://twitter.com/inessadeangelis
 
   page-footer:
     background: light
