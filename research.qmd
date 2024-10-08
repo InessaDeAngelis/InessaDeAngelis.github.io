@@ -8,7 +8,6 @@ My research interests include political communication, gender and politics, and 
 
 -   [Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweets About Climate Change](https://github.com/InessaDeAngelis/Torrential_Twitter_Paper/blob/main/Outputs/Paper/paper_for_pub.pdf) *(revised and resubmitted)*
 
-
 #### Works in Progress
 
 **Books**
@@ -21,6 +20,9 @@ My research interests include political communication, gender and politics, and 
 
 #### Other papers
 
--   [Do More Subdivisions in Wards Increase Voter Turnout? An Analysis of the 2022 Toronto Municipal Election](/pdfs/toronto_elections_paper.pdf)
+-  De Angelis, I. (2023). [Do More Subdivisions in Wards Increase Voter Turnout? An Analysis of the 2022 Toronto Municipal Election.](/pdfs/toronto_elections_paper.pdf)
 
--   [Women on the Ballot? Investigating Gendered Perceptions of the Emotional Viability of Women to Serve in Politics](/pdfs/women_in_politics_paper_pub.pdf)
+-  De Angelis, I. (2023). [Women on the Ballot? Investigating Gendered Perceptions of the Emotional Viability of Women to Serve in Politics.](/pdfs/women_in_politics_paper_pub.pdf)
+
+#### Datasets
+<div style="text-align: left"> -   De Angelis, I. (2024). Canadian Politicians on YouTube \[Data set\].  Zenodo. [https://doi.org/10.5281/zenodo.12746968](https://doi.org/10.5281/zenodo.12746968)</div>
