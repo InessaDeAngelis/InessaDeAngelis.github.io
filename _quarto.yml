@@ -21,14 +21,14 @@ website:
     - icon: envelope-at
       href: "mailto:Inessa.DeAngelis@mail.utoronto.ca"
     - icon: github
-      href: https://github.com/InessaDeAngelis
+      href: "https://github.com/InessaDeAngelis"
     - icon: linkedin
-      href: https://www.linkedin.com/in/inessa-de-angelis/
+      href: "https://www.linkedin.com/in/inessa-de-angelis/"
     - icon: twitter
-      href: https://twitter.com/inessadeangelis
-    - icon: cloud-sun-fill
-      href: https://bsky.app/profile/inessadeangelis.bsky.social
-      
+      href: "https://twitter.com/inessadeangelis"
+    - text: "{{< fa brands bluesky >}}"
+      href: "https://bsky.app/profile/inessadeangelis.bsky.social"
+  
   page-footer:
     background: light
     center: "© 2024 Inessa De Angelis"
@@ -40,6 +40,6 @@ format:
       - minty.scss
     mainfont: Lato
     css: styles.css
-    toc: true
+    toc: false
 
 editor: visual

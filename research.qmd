@@ -4,31 +4,28 @@ title: "Research"
 
 My research interests include political communication, gender and politics, and quantitative/computational social science methods.
 
-#### Peer-reviewed publications 
+### Peer-reviewed publications 
 
--  **De Angelis, I.** (2024). Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweet About Climate Change. Accepted, *Social Media + Society*
+-  **De Angelis, I.** (2024). Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweet About Climate Change. In press, *Social Media + Society*
 
-#### Works in progress
-
+### Works in progress
 **Papers**
-
--   The Cost of Comments: Gendered Online Harassment of Canadian Politicians on YouTube *(under review)*
+<div style="text-align: left"> -  The Cost of Comments: Gendered Online Harassment of Canadian Politicians on YouTube *(under review)*
 
 -  Toxic Comments: Harassment of Canadian Political Party Leaders on YouTube *(paper in preparation)*
 
 **Book**
 <div style="text-align: left"> -   [Leaders' Debates in Canada](https://github.com/InessaDeAngelis/Leaders_Debates) (with Spencer McKay and Jacob Robbins-Kanter) *(book manuscript in preparation)*
 
-
-#### Master's thesis
+### Master's thesis
 
 <div style="text-align: left"> -  **De Angelis, I.** (2024). *Torrential Twitter: Climate Change, Female Politicians, and Harassment* [Master’s thesis]. University of Toronto. [https://tspace.library.utoronto.ca/handle/1807/140754](https://tspace.library.utoronto.ca/handle/1807/140754).
 
-#### Other papers
+### Other papers
 
 -  **De Angelis, I.** (2023). [Do More Subdivisions in Wards Increase Voter Turnout? An Analysis of the 2022 Toronto Municipal Election](/pdfs/toronto_elections_paper.pdf).
 
 -  **De Angelis, I.** (2023). [Women on the Ballot? Investigating Gendered Perceptions of the Emotional Viability of Women to Serve in Politics](/pdfs/women_in_politics_paper_pub.pdf).
 
-#### Datasets
+### Datasets
 <div style="text-align: left"> -   **De Angelis, I.** (2024). Canadian Politicians on YouTube \[Data set\].  Zenodo. [https://doi.org/10.5281/zenodo.12746968](https://doi.org/10.5281/zenodo.12746968)</div>

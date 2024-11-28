@@ -6,4 +6,4 @@ about:
   image-shape: rectangle
 ---
 
-I am a PhD student at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/). Using computational and statistical methods, my research examines the gendered nature of online harassment faced by Canadian politicians. I am passionate about getting more women involved in politics through my work and research. 
+I am a PhD student at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/). Using computational and statistical methods, my research examines the gendered nature of online harassment faced by Canadian politicians. I am passionate about getting more women involved in politics through my work and research.
