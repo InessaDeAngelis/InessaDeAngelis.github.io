@@ -24,14 +24,12 @@ website:
       href: "https://github.com/InessaDeAngelis"
     - icon: linkedin
       href: "https://www.linkedin.com/in/inessa-de-angelis/"
-    - icon: twitter
-      href: "https://twitter.com/inessadeangelis"
     - text: "{{< fa brands bluesky >}}"
       href: "https://bsky.app/profile/inessadeangelis.bsky.social"
   
   page-footer:
     background: light
-    center: "© 2024 Inessa De Angelis"
+    center: "© 2025 Inessa De Angelis"
 
 format:
   html:
