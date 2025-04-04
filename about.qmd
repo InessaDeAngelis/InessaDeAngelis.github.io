@@ -1,9 +1,10 @@
 ---
 title: ""
-about:
-  template: broadside
-  image: images/parliament.jpg
 ---
+
+<div style="float: left; margin-right: 20px;">
+  <img src="images/parliament.jpg" width="400" alt="Our Team">
+</div>
 
 I am a PhD student at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/). I completed my Master of Information at the University of Toronto and received my Honours Bachelor of Arts with a Double Major in Communication & Media Studies and History from the University of Ottawa. I have 11 years of experience working in federal, provincial, and municipal Canadian politics. As well, I previously worked as a Research Assistant at the [Pol Comm Tech Lab](https://www.polcommtech.com/) directed by Dr. Elizabeth Dubois at the University of Ottawa.
 
