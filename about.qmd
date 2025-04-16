@@ -3,9 +3,12 @@ title: ""
 ---
 
 <div style="float: left; margin-right: 20px;">
-  <img src="images/parliament.jpg" width="400" alt="Our Team">
+  <img src="images/parliament.jpg" width="400">
 </div>
 
+
+
+<br><br>
 I am a PhD student at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/). I completed my Master of Information at the University of Toronto and received my Honours Bachelor of Arts with a Double Major in Communication & Media Studies and History from the University of Ottawa. I have 11 years of experience working in federal, provincial, and municipal Canadian politics. As well, I previously worked as a Research Assistant at the [Pol Comm Tech Lab](https://www.polcommtech.com/) directed by Dr. Elizabeth Dubois at the University of Ottawa.
 
 I am passionate about the historical and contemporary experiences of women in the public sphere and aim to increase the participation of women in politics through my work and research. I am particularly interested in online harassment and gender-based violence in politics. My recently completed Master's thesis research was supported by the Social Sciences and Humanities Research Council of Canada (CGS-M) and Government of Ontario (OGS) and examined the online harassment of Canadian women politicians, specifically when Tweeting about climate change and environmental policy. Results from this research are published in *[Social Media + Society](https://doi.org/10.1177/20563051241304493)*.

@@ -17,6 +17,8 @@ website:
         text: About
       - href: research.qmd
         text: Research
+      - href: media.qmd
+        text: Media
     right: 
     - icon: envelope-at
       href: "mailto:Inessa.DeAngelis@mail.utoronto.ca"
