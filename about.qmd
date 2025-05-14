@@ -1,14 +1,13 @@
 ---
 title: ""
+about:
+  template: broadside
+  image: images/parliament.jpg
 ---
 
-<div style="float: left; margin-right: 20px;">
-  <img src="images/parliament.jpg" width="400">
-</div>
+I am a PhD student at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/). I completed my Master of Information at the University of Toronto and received my Honours Bachelor of Arts with a Double Major in Communication and History from the University of Ottawa. I have 11 years of experience working in federal, provincial, and municipal Canadian politics. Previously, I worked as a Research Assistant at the [Pol Comm Tech Lab](https://www.polcommtech.com/) directed by Dr. Elizabeth Dubois at the University of Ottawa.
 
-I am a PhD student at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/). I completed my Master of Information at the University of Toronto and received my Honours Bachelor of Arts with a Double Major in Communication & Media Studies and History from the University of Ottawa. I have 11 years of experience working in federal, provincial, and municipal Canadian politics. As well, I previously worked as a Research Assistant at the [Pol Comm Tech Lab](https://www.polcommtech.com/) directed by Dr. Elizabeth Dubois at the University of Ottawa.
-
-I am passionate about the historical and contemporary experiences of women in the public sphere and aim to increase the participation of women in politics through my work and research. I am particularly interested in online harassment and gender-based violence in politics. My recently completed Master's thesis research was supported by the Social Sciences and Humanities Research Council of Canada (CGS-M) and Government of Ontario (OGS) and examined the online harassment of Canadian women politicians, specifically when Tweeting about climate change and environmental policy. Results from this research are published in *[Social Media + Society](https://doi.org/10.1177/20563051241304493)*.
+I am passionate about the historical and contemporary experiences of women in the public sphere and aim to increase the participation of women in politics through my work and research. I am particularly interested in online harassment and gender-based violence in politics. My Social Sciences and Humanities Research Council of Canada (SSHRC) funded doctoral work develops methods to better measure and understand the nature and extent of online harassment faced by Canadian politicians. 
 
 <div style="text-align: left">
 I enjoy publicly speaking about my experiences in Canadian politics and my on-going research. For inquiries, please reach out: [Inessa.DeAngelis\@mail.utoronto.ca](Inessa.DeAngelis@mail.utoronto.ca)

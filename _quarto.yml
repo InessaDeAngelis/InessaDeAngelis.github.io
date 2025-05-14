@@ -25,7 +25,7 @@ website:
     - icon: github
       href: "https://github.com/InessaDeAngelis"
     - icon: linkedin
-      href: "https://www.linkedin.com/in/inessa-de-angelis/"
+      href: "https://www.linkedin.com/in/inessadeangelis/"
     - text: "{{< fa brands bluesky >}}"
       href: "https://bsky.app/profile/inessadeangelis.bsky.social"
   

@@ -6,31 +6,36 @@ My research interests include political communication, gender and politics, and 
 
 #### Peer-reviewed publications 
 
-<div style="text-align: left"> -  **De Angelis, I.** (2024). Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweet About Climate Change. *Social Media + Society, 10*(4), 1–17. [https://doi.org/10.1177/20563051241304493](https://doi.org/10.1177/20563051241304493)
+<div style="text-align: left"> -  **De Angelis, I.** (2024). Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweet About Climate Change. *Social Media + Society, 10*(4), 1–17. [https://doi.org/10.1177/20563051241304493](https://doi.org/10.1177/20563051241304493)  
 
+</div>
 
 #### Works in progress
-**Papers**
-<div style="text-align: left"> -  The Cost of Comments: Gendered Online Harassment of Canadian Politicians on YouTube *(revise and re-submit)*
+**Papers**  
+<div style="text-align: left">
 
-<div style="text-align: left"> - What are Canadian Members of Parliament doing on Bluesky? (with Rohan Alexander) *(revise and re-submit)*
+- What are Canadian Members of Parliament doing on Bluesky? (with Rohan Alexander) <br> *(revised and re-submitted)*  
+- The Cost of Comments: Gendered Online Harassment of Canadian Politicians on YouTube <br> *(revise and re-submit)*  
+- Inundated and Intimidated: Analyzing Online Harassment of Canadian Politicians on YouTube <br> *(under review)*  
+- Toxic Comments: Harassment of Canadian Political Party Leaders on YouTube <br> *(in preparation)*  
 
--  Inundated and Intimidated: Analyzing Online Harassment of Canadian Politicians on YouTube *(paper in preparation)*
-
--  Toxic Comments: Harassment of Canadian Political Party Leaders on YouTube *(paper in preparation)*
+</div>
 
 **Book**
-<div style="text-align: left"> -   [Leaders' Debates in Canada](https://github.com/InessaDeAngelis/Leaders_Debates) (with Spencer McKay and Jacob Robbins-Kanter) *(book manuscript in preparation)*
+<div style="text-align: left"> -   [Leaders' Debates in Canada](https://github.com/InessaDeAngelis/Leaders_Debates) (with Spencer McKay and Jacob Robbins-Kanter) <br> *(in preparation)*
+</div>
 
 #### Master's thesis
 
 <div style="text-align: left"> -  **De Angelis, I.** (2024). *Torrential Twitter: Climate Change, Female Politicians, and Harassment* [Master’s thesis]. University of Toronto. [https://tspace.library.utoronto.ca/handle/1807/140754](https://tspace.library.utoronto.ca/handle/1807/140754).
 
 #### Other papers
-
+<div style="text-align: left">
 -  **De Angelis, I.** (2023). [Do More Subdivisions in Wards Increase Voter Turnout? An Analysis of the 2022 Toronto Municipal Election](/pdfs/toronto_elections_paper.pdf).
-
 -  **De Angelis, I.** (2023). [Women on the Ballot? Investigating Gendered Perceptions of the Emotional Viability of Women to Serve in Politics](/pdfs/women_in_politics_paper_pub.pdf).
+</div>
 
 #### Datasets
-<div style="text-align: left"> -   **De Angelis, I.** (2024). Canadian Politicians on YouTube \[Data set\].  Zenodo. [https://doi.org/10.5281/zenodo.12746968](https://doi.org/10.5281/zenodo.12746968)</div>
+<div style="text-align: left"> 
+- **De Angelis, I.** (2024). Canadian Politicians on YouTube \[Data set\].  Zenodo. [https://doi.org/10.5281/zenodo.12746968](https://doi.org/10.5281/zenodo.12746968)</div>
+</div>
