@@ -22,18 +22,14 @@ My research interests include political communication, gender and politics, and 
 </div>
 
 **Book**
-<div style="text-align: left"> -   [Leaders' Debates in Canada](https://github.com/InessaDeAngelis/Leaders_Debates) (with Spencer McKay and Jacob Robbins-Kanter) <br> *(in preparation)*
+<div style="text-align: left">
+- Leaders' Debates in Canada (with Spencer McKay and Jacob Robbins-Kanter) <br> *(in preparation)*
 </div>
 
 #### Master's thesis
 
 <div style="text-align: left"> -  **De Angelis, I.** (2024). *Torrential Twitter: Climate Change, Female Politicians, and Harassment* [Master’s thesis]. University of Toronto. [https://tspace.library.utoronto.ca/handle/1807/140754](https://tspace.library.utoronto.ca/handle/1807/140754).
 
-#### Other papers
-<div style="text-align: left">
--  **De Angelis, I.** (2023). [Do More Subdivisions in Wards Increase Voter Turnout? An Analysis of the 2022 Toronto Municipal Election](/pdfs/toronto_elections_paper.pdf).
--  **De Angelis, I.** (2023). [Women on the Ballot? Investigating Gendered Perceptions of the Emotional Viability of Women to Serve in Politics](/pdfs/women_in_politics_paper_pub.pdf).
-</div>
 
 #### Datasets
 <div style="text-align: left"> 
