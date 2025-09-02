@@ -5,9 +5,11 @@ about:
   image: images/parliament.jpg
 ---
 
-I am a PhD student at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/). I completed my Master of Information at the University of Toronto and received my Honours Bachelor of Arts with a Double Major in Communication and History from the University of Ottawa. I have 11 years of experience working in federal, provincial, and municipal Canadian politics. Previously, I worked as a Research Assistant at the [Pol Comm Tech Lab](https://www.polcommtech.com/) directed by Dr. Elizabeth Dubois at the University of Ottawa.
+I am a PhD student at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/). I completed my Master of Information at the University of Toronto and received my Honours Bachelor of Arts with a Double Major in Communication and History from the University of Ottawa. 
 
-I am passionate about the historical and contemporary experiences of women in the public sphere and aim to increase the participation of women in politics through my work and research. I am particularly interested in online harassment and gender-based violence in politics. My Social Sciences and Humanities Research Council of Canada (SSHRC) funded doctoral work develops methods to better measure and understand the nature and extent of online harassment faced by Canadian politicians. 
+My Social Sciences and Humanities Research Council of Canada (SSHRC) funded doctoral work develops computational and statistical methods to better measure and understand the nature and extent of online harassment faced by Canadian politicians. More broadly, my research focuses on the political uses of social media and artificial intelligence, gender and politics, and computational social science methods. My work has appeared in *Social Media + Society*, the *Canadian Journal of Political Science*, and *The Conversation*, among other venues.  
+
+I have 11 years of experience working in federal Canadian politics. Additionally, I previously worked as a Research Assistant at the [Pol Comm Tech Lab](https://www.polcommtech.com/) directed by Dr. Elizabeth Dubois at the University of Ottawa. I am passionate about getting more women involved in politics through my work and research.
 
 <div style="text-align: left">
-I enjoy publicly speaking about my experiences in Canadian politics and my on-going research. For inquiries, please reach out: [Inessa.DeAngelis\@mail.utoronto.ca](mailto:Inessa.DeAngelis@mail.utoronto.ca)
+My CV can be found [here](pdfs/CV.pdf). For inquiries, please reach out: [Inessa.DeAngelis\@mail.utoronto.ca](mailto:Inessa.DeAngelis@mail.utoronto.ca)
