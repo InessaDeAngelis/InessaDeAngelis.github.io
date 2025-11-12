@@ -12,12 +12,11 @@ My research interests include political communication, gender and politics, and 
 
 </div>
 
-#### Works in progress
+#### Under Review
 **Papers**  
 <div style="text-align: left">
 
-- The Cost of Comments: Gendered Online Harassment of Canadian Politicians on YouTube *(revised and re-submitted)*  
-- Prompting Debate: Analyzing how Politicians in the Five Eyes Countries Frame Artificial Intelligence in Parliamentary Debates (with Lindsay Katz and Rohan Alexander) *(in preparation)*
+- Using GitHub Actions for Computational Communication Research *(submitted for review)*  
 
 </div>
 
