@@ -16,7 +16,8 @@ My research interests include political communication, gender and politics, and 
 **Papers**  
 <div style="text-align: left">
 
-- Using GitHub Actions for Computational Communication Research *(submitted for review)*  
+- Using GitHub Actions for Computational Communication Research *(Under review)*  
+- Do Women Politicians Face More Interruptions? An Analysis of Interjections in the Australian Parliamentary Debates (1998-2025) (with Lindsay Katz and Rohan Alexander) *(Submitted for review)*
 
 </div>
 
