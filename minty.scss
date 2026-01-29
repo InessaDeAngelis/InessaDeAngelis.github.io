@@ -106,7 +106,7 @@ $breadcrumb-border-radius:          .25rem !default;
 
 // Variables
 
-$web-font-path: "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" !default;
+$web-font-path: "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" !default;
 @if $web-font-path {
   @import url($web-font-path);
 }
@@ -170,6 +170,45 @@ legend {
   &.bg-light {
     color: $gray-700;
   }
+}
+
+// Navbar link size
+.navbar-nav .nav-link {
+  font-size: 1.1rem;  
+}
+
+// Navbar title size (site title / name)
+.navbar-brand {
+  font-size: 1.3rem;   
+}
+
+/* Hide the empty hero title */
+.quarto-marquee .hero-title {
+  display: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  height: 0 !important;
+  line-height: 0 !important;
+}
+
+/* Remove vertical padding inside the column that holds your text */
+.quarto-marquee .hero-body .col {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Align image and text at the top */
+.quarto-marquee .hero-body > .row {
+  align-items: flex-start !important;
+  gap: 0.5rem; /* optional */
+}
+
+/* Remove any margin from image and lead paragraph */
+.quarto-marquee img {
+  margin-bottom: 0 !important;
+}
+.quarto-marquee .lead {
+  margin-top: 0 !important;
 }
 
 // Containers

@@ -4,34 +4,38 @@ title: "Research"
 
 My research interests include political communication, gender and politics, and quantitative/computational social science methods.
 
-#### Peer-reviewed publications 
+#### Peer-reviewed publications
 
-<div style="text-align: left"> 
-- **De Angelis, I.**, & Alexander, R. (2025). What are Canadian Members of Parliament doing on Bluesky? *Canadian Journal of Political Science*, 1–22. [https://doi.org/10.1017/S0008423925100619](https://doi.org/10.1017/S0008423925100619) 
-- **De Angelis, I.** (2024). Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweet About Climate Change. *Social Media + Society, 10*(4), 1–17. [https://doi.org/10.1177/20563051241304493](https://doi.org/10.1177/20563051241304493)  
-
-</div>
+::: {style="text-align: left"}
+-   **De Angelis, I.**, & Alexander, R. (2025). What are Canadian Members of Parliament doing on Bluesky? *Canadian Journal of Political Science*, 1–22. <https://doi.org/10.1017/S0008423925100619>
+-   **De Angelis, I.** (2024). Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweet About Climate Change. *Social Media + Society, 10*(4), 1–17. <https://doi.org/10.1177/20563051241304493>
+:::
 
 #### Under Review
-**Papers**  
-<div style="text-align: left">
 
-- Using GitHub Actions for Computational Communication Research *(Under review)*  
-- Do Women Politicians Face More Interruptions? An Analysis of Interjections in the Australian Parliamentary Debates (1998-2025) (with Lindsay Katz and Rohan Alexander) *(Submitted for review)*
+**Papers**\
 
-</div>
+::: {style="text-align: left"}
+-   Using GitHub Actions for Computational Communication Research *(Under review)*\
+-   Do Women Politicians Face More Interruptions? An Analysis of Interjections in the Australian Parliamentary Debates (1998-2025) (with Lindsay Katz and Rohan Alexander) *(Under review)*
+:::
 
 **Book**
-<div style="text-align: left">
-- Leaders' Debates in Canada (with Spencer McKay and Jacob Robbins-Kanter) *(Under review)*
-</div>
+
+::: {style="text-align: left"}
+-   Leaders' Debates in Canada (with Spencer McKay and Jacob Robbins-Kanter) *(Under review)*
+:::
 
 #### Master's thesis
 
-<div style="text-align: left"> -  **De Angelis, I.** (2024). *Torrential Twitter: Climate Change, Female Politicians, and Harassment* [Master’s thesis]. University of Toronto. [https://tspace.library.utoronto.ca/handle/1807/140754](https://tspace.library.utoronto.ca/handle/1807/140754)
-
+:::: {style="text-align: left"}
+-   **De Angelis, I.** (2024). *Torrential Twitter: Climate Change, Female Politicians, and Harassment* \[Master’s thesis\]. University of Toronto. <https://tspace.library.utoronto.ca/handle/1807/140754>
 
 #### Datasets
-<div style="text-align: left"> 
-- **De Angelis, I.** (2024). Canadian Politicians on YouTube \[Data set\].  Zenodo. [https://doi.org/10.5281/zenodo.12746968](https://doi.org/10.5281/zenodo.12746968)</div>
-</div>
+
+::: {style="text-align: left"}
+-   **De Angelis, I.** (2024). Canadian Politicians on YouTube \[Data set\]. Zenodo. <https://doi.org/10.5281/zenodo.12746968>
+
+    </div>
+:::
+::::

@@ -6,3 +6,5 @@
 .Rapp.history
 
 /.quarto/
+
+**/*.quarto_ipynb

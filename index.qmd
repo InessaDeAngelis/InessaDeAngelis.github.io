@@ -1,9 +1,9 @@
 ---
 title: ""
-about:
-  template: marquee
-  image: images/headshot2.jpg
-  image-shape: rectangle
 ---
 
-I am a PhD student at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/). Using computational and statistical methods, my research examines the gendered nature of online harassment faced by Canadian politicians. I am passionate about getting more women involved in politics through my work and research.
+::: {.landing-container}
+![](images/headshot2.jpg){.landing-image}
+<div style="margin-top: 0.95em;"></div>  
+I am a PhD Candidate at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/). Using computational and statistical methods, my research examines the gendered nature of online harassment faced by Canadian politicians. I am passionate about getting more women involved in politics through my work and research.
+:::

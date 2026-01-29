@@ -5,7 +5,7 @@ about:
   image: images/parliament.jpg
 ---
 
-I am a PhD student at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/). I completed my Master of Information at the University of Toronto and received my Honours Bachelor of Arts with a Double Major in Communication and History from the University of Ottawa. 
+I am a PhD Candidate at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/). I completed my Master of Information at the University of Toronto and received my Honours Bachelor of Arts with a Double Major in Communication and History from the University of Ottawa. 
 
 My Social Sciences and Humanities Research Council of Canada (SSHRC) funded doctoral work develops computational and statistical methods to better measure and understand the nature and extent of online harassment faced by Canadian politicians. More broadly, my research focuses on the political uses of social media and artificial intelligence, gender and politics, and computational social science methods. My work has appeared in *Social Media + Society*, the *Canadian Journal of Political Science*, and *The Conversation*, among other venues.  
 

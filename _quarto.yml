@@ -5,7 +5,7 @@ project:
 website:
   google-analytics: G-072EP0BQB1
   favicon: images/headshot.jpg
-  title: "INESSA DE ANGELIS"
+  title: "Inessa De Angelis"
   site-url: "https://inessadeangelis.ca"
   navbar:
     background: secondary
@@ -35,7 +35,7 @@ website:
 
 format:
   html:
-    theme: 
+    theme:
       - minty
       - minty.scss
     mainfont: Lato
