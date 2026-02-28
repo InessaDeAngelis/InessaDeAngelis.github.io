@@ -7,17 +7,18 @@ My research interests include political communication, gender and politics, and 
 #### Peer-reviewed publications
 
 ::: {style="text-align: left"}
+-  Katz, L., **De Angelis, I.**, & Alexander, R. (2026). Do Women Politicians Face More Interruptions? An Analysis of Interjections in the Australian Parliamentary Debates (1998-2025). Conditionally accepted, *Australian Journal of Political Science*.
 -   **De Angelis, I.**, & Alexander, R. (2025). What are Canadian Members of Parliament doing on Bluesky? *Canadian Journal of Political Science*, 1–22. <https://doi.org/10.1017/S0008423925100619>
 -   **De Angelis, I.** (2024). Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweet About Climate Change. *Social Media + Society, 10*(4), 1–17. <https://doi.org/10.1177/20563051241304493>
 :::
 
 #### Under Review
 
-**Papers**\
+**Papers**
 
 ::: {style="text-align: left"}
--   Using GitHub Actions for Computational Communication Research *(Under review)*\
--   Do Women Politicians Face More Interruptions? An Analysis of Interjections in the Australian Parliamentary Debates (1998-2025) (with Lindsay Katz and Rohan Alexander) *(Under review)*
+-   Using GitHub Actions for Computational Communication Research *(Under review)* \
+- Leeching Legitimacy: The Parasitic Use of YouTube by Canadian Conservative Politicians *(Submitted for review)*
 :::
 
 **Book**
