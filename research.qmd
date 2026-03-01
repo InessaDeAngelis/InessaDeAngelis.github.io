@@ -2,7 +2,7 @@
 title: "Research"
 ---
 
-My research interests include political communication, gender and politics, and quantitative/computational social science methods.
+My research interests include political communication, gender and politics, and computational social science.
 
 #### Peer-reviewed publications
 
@@ -14,14 +14,14 @@ My research interests include political communication, gender and politics, and 
 
 #### Under Review
 
-**Papers**
+##### Papers
 
 ::: {style="text-align: left"}
 -   Using GitHub Actions for Computational Communication Research *(Under review)* \
 - Leeching Legitimacy: The Parasitic Use of YouTube by Canadian Conservative Politicians *(Submitted for review)*
 :::
 
-**Book**
+##### Book
 
 ::: {style="text-align: left"}
 -   Leaders' Debates in Canada (with Spencer McKay and Jacob Robbins-Kanter) *(Under review)*
