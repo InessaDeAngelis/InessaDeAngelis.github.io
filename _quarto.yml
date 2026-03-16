@@ -19,15 +19,15 @@ website:
         text: Research
       - href: media.qmd
         text: Media
-    right: 
-    - icon: envelope-at
-      href: "mailto:Inessa.DeAngelis@mail.utoronto.ca"
-    - icon: github
-      href: "https://github.com/InessaDeAngelis"
-    - icon: linkedin
-      href: "https://www.linkedin.com/in/inessadeangelis/"
-    - text: "{{< fa brands bluesky >}}"
-      href: "https://bsky.app/profile/inessadeangelis.bsky.social"
+    right:
+      - icon: envelope-at
+        href: "mailto:Inessa.DeAngelis@mail.utoronto.ca"
+      - icon: github
+        href: "https://github.com/InessaDeAngelis"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/inessadeangelis/"
+      - text: "{{< fa brands bluesky >}}"
+        href: "https://bsky.app/profile/inessadeangelis.bsky.social"
   
   page-footer:
     background: light

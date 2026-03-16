@@ -2,9 +2,6 @@
 title: ""
 ---
 
-::: {.landing-container}
-![](images/headshot.jpg){.landing-image}
-
-<div style="margin-top: 0.95em;"></div>  
-I am a PhD Candidate at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/), studying the forms and impacts of online harassment in Canadian politics using computational and statistical methods.
-:::
+<div class="home-profile"> <img src="images/headshot3.jpg" class="home-avatar">
+<h1 class="home-name"> Inessa De Angelis </h1>
+<p class="home-subtitle"> PhD Candidate, Faculty of Information, University of Toronto </p>

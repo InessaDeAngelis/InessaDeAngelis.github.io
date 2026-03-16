@@ -1,15 +1,20 @@
 ---
 title: ""
-about:
-  template: broadside
-  image: images/parliament.jpg
+page-layout: full
 ---
 
-I am a PhD Candidate at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/). I completed my Master of Information at the University of Toronto and received my Honours Bachelor of Arts with a Double Major in Communication and History from the University of Ottawa. 
+::::: {.landing-container style="display: flex; align-items: center; flex-start; gap: 2em; max-width: 1200px; margin: 0 auto; padding: 1em;"}
+<img src="images/parliament.jpg" style="width: 400px; height: auto; border-radius: 0px; flex-shrink: 0;"/>
 
-My Social Sciences and Humanities Research Council of Canada (SSHRC) funded doctoral work develops computational and statistical methods to better measure and understand the forms and impact of online harassment faced by Canadian politicians. More broadly, my research focuses on the political uses of social media and artificial intelligence, gender and politics, and computational social science. My work has appeared in *Social Media + Society*, the *Canadian Journal of Political Science*, and *The Conversation*, among other venues.  
+:::: {style="flex: 1;"}
+<p>I am a PhD candidate at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/). I completed my Master of Information at the University of Toronto and received my Honours Bachelor of Arts with a Double Major in Communication and History from the University of Ottawa.</p>
 
-I have over 10 years of experience working in federal Canadian politics. Additionally, I previously worked as a Research Assistant at the [Pol Comm Tech Lab](https://www.polcommtech.com/) at the University of Ottawa. I am passionate about getting more women involved in politics through my work and research.
+<p>My Social Sciences and Humanities Research Council of Canada (SSHRC) funded doctoral work develops computational and statistical methods to better measure and understand the forms and impact of online harassment faced by Canadian politicians. More broadly, my research focuses on the political uses of social media and artificial intelligence, gender and politics, and computational social science. My work has appeared in journals such as *Social Media + Society*, the *Canadian Journal of Political Science*, and the *Australian Journal of Political Science*. My research and commentary have also been featured in media outlets including *The Guardian*, *The Conversation*, and *The Hamilton Spectator*.</p>
 
-<div style="text-align: left">
-My CV can be found [here](pdfs/CV.pdf). For inquiries, please reach out: [Inessa.DeAngelis\@mail.utoronto.ca](mailto:Inessa.DeAngelis@mail.utoronto.ca)
+<p>I have over 10 years of experience working in federal Canadian politics. Additionally, I previously worked as a Research Assistant at the [Pol Comm Tech Lab](https://www.polcommtech.com/) at the University of Ottawa. I am passionate about getting more women involved in politics through my work and research.</p>
+
+::: {style="text-align: left;"}
+<p>My CV can be found <a href="pdfs/CV.pdf">here</a>. For inquiries, please reach out: <a href="mailto:Inessa.DeAngelis@mail.utoronto.ca">Inessa.DeAngelis\@mail.utoronto.ca</a></p>
+:::
+::::
+:::::
