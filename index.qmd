@@ -1,5 +1,7 @@
 ---
 title: ""
+page-layout: full
+body-classes: homepage
 ---
 
 <div class="home-profile"> <img src="images/headshot3.jpg" class="home-avatar">
