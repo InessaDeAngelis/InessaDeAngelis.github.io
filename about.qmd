@@ -3,7 +3,7 @@ title: ""
 page-layout: full
 ---
 
-::::: {.landing-container style="display: flex; align-items: center; flex-start; gap: 2em; max-width: 1200px; margin: 0 auto; padding: 1em;"}
+::::: {.landing-container}
 <img src="images/parliament.jpg" style="width: 400px; height: auto; border-radius: 0px; flex-shrink: 0;"/>
 
 :::: {style="flex: 1;"}

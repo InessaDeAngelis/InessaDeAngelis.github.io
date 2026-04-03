@@ -241,6 +241,36 @@ legend {
   margin-bottom: 1.5rem;
 }
 
+.landing-container {
+  display: flex;
+  align-items: center;
+  gap: 2em;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1em;
+}
+
+/* Image styling */
+.landing-container img {
+  width: 400px;
+  max-width: 100%;
+  height: auto;
+  flex-shrink: 0;
+}
+
+/* Mobile fix */
+@media (max-width: 768px) {
+  .landing-container {
+    flex-direction: column;   /* stack instead of side-by-side */
+    text-align: left;
+  }
+
+  .landing-container img {
+    width: 100%;              /* full width on mobile */
+    max-width: 350px;         /* prevents it from getting huge */
+  }
+}
+
 // Containers
 
 .card,
