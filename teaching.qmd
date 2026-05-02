@@ -1,0 +1,23 @@
+---
+title: "Teaching"
+---
+
+### Course Instructor
+
+##### Faculty of Information, University of Toronto
+
+-   INF2167 – R for Data Science (Summer 2026)
+    -   [Course description](https://ischool.utoronto.ca/course/r-for-data-science/)
+    -   [Course repository](https://github.com/InessaDeAngelis/INF2167)
+
+### Teaching Assistant
+
+##### Faculty of Information, University of Toronto
+
+-   INF1001 – Introduction to Critical Information Policy Studies (Fall 2024, 2025)
+-   INF1339 – Introduction to Computational Thinking (Fall 2024)
+
+##### Department of Political Science, University of Toronto
+
+-   POL319 – Elections and Voting (Fall 2025)
+-   POL382 – Topics in Canadian Politics (Political Representation) (Winter 2026)

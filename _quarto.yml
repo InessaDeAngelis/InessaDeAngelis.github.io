@@ -17,6 +17,8 @@ website:
         text: About
       - href: research.qmd
         text: Research
+      - href: teaching.qmd
+        text: Teaching
       - href: media.qmd
         text: Media
     right:
