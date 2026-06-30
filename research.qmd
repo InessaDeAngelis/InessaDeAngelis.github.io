@@ -19,7 +19,8 @@ My research interests include political communication, gender and politics, and 
 ::: {style="text-align: left"}
 -   Using GitHub Actions for Computational Communication Research *(Revised and resubmitted)* <br> 
     Pre-print: <https://doi.org/10.31235/osf.io/uqf6n_v1>
-- Leeching Legitimacy: The Parasitic Use of YouTube by Canadian Conservative Politicians *(Under review)*
+- Leeching Legitimacy: The Parasitic Use of YouTube by Conservative Politicians *(Revise and resubmit)*
+- New Platform, Old Strategies? Electioneering on Bluesky in the 2025 Canadian Federal Election (with Rohan Alexander)*(Submitted for review)*
 :::
 
 ##### Book
