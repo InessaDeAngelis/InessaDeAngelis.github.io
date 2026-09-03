@@ -2,24 +2,26 @@
 title: "Research"
 ---
 
-My research interests include political communication, gender and politics, and computational social science.
+My research interests include political communication, gender and politics, and computational social science. A list of publications is also available on [Google Scholar](https://scholar.google.com/citations?user=R1yYXDgAAAAJ&hl=en).
 
 #### Peer-reviewed publications
 
 ::: {style="text-align: left"}
 - **De Angelis, I.** (2026). Using GitHub Actions for Computational Communication Research. Forthcoming, *Computational Communication Research*. Pre-print: <https://doi.org/10.31235/osf.io/uqf6n_v1>
-- Katz, L., **De Angelis, I.**, & Alexander, R. (2026). Do Women Politicians Face More Interruptions? An Analysis of Interjections in the Australian Parliamentary Debates (1998-2025). *Australian Journal of Political Science*, 1–27. <https://doi.org/10.1080/10361146.2026.2642819>
+- Katz, L., **De Angelis, I.**, & Alexander, R. (2026). Do Women Politicians Face More Interruptions? An Analysis of Interjections in the Australian Parliamentary Debates (1998-2025). *Australian Journal of Political Science, 61*(2), 137–163. <https://doi.org/10.1080/10361146.2026.2642819>
 - **De Angelis, I.**, & Alexander, R. (2026). What are Canadian Members of Parliament doing on Bluesky? *Canadian Journal of Political Science, 59*(2) 255–276. <https://doi.org/10.1017/S0008423925100619>
 - **De Angelis, I.** (2024). Torrential Twitter? Measuring the Severity of Harassment When Canadian Female Politicians Tweet About Climate Change. *Social Media + Society, 10*(4), 1–17. <https://doi.org/10.1177/20563051241304493>
 :::
 
-#### Under Review
+#### Under review
 
 ##### Papers
 
 ::: {style="text-align: left"}
 - Leeching Legitimacy: The Parasitic Use of YouTube by Conservative Politicians *(Revised and resubmitted)*
-- New Platform, Old Strategies? Electioneering on Bluesky in the 2025 Canadian Federal Election (with Rohan Alexander) *(Submitted for review)*
+- New Platform, Old Strategies? Electioneering on Bluesky in the 2025 Canadian Federal Election <br> (with Rohan Alexander) *(Under review)*
+- You Have My Attention: Offline Events and the Temporal Dynamics of Online Harassment in Politics (with Sabrina Kreyzerman) *(Submitted for review)* <br>
+Pre-print: <https://doi.org/10.31235/osf.io/rka7z_v2>
 :::
 
 ##### Book

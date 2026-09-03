@@ -1,0 +1,629 @@
+/*-- scss:defaults --*/
+
+
+/* COLOURS */
+
+$body-bg: #fffffc;
+$body-color: #292D32;
+
+$primary: #527C9B;
+$secondary: #A9CED1;
+
+$white: #fffffc;
+$black: #292D32;
+
+
+/* TYPOGRAPHY */
+
+$font-family-sans-serif:
+  "Figtree",
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  sans-serif;
+
+$headings-font-family:
+  "Figtree",
+  -apple-system,
+  BlinkMacSystemFont,
+  "Segoe UI",
+  sans-serif;
+
+$headings-font-weight: 400;
+
+
+/*-- scss:rules --*/
+
+
+/* GENERAL */
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+
+  background-color: $body-bg;
+  color: $body-color;
+
+  font-family: "Figtree", sans-serif;
+  font-weight: 400;
+  line-height: 1.7;
+}
+
+
+/* NAVBAR */
+
+.navbar {
+  background-color: $body-bg !important;
+
+  border: none !important;
+  box-shadow: none !important;
+
+  padding: 1.5rem 2.5rem;
+}
+
+.navbar-brand {
+  color: $body-color !important;
+
+  font-family: "Figtree", sans-serif;
+  font-size: 1.15rem;
+  font-weight: 500;
+
+  letter-spacing: 0.06em;
+}
+
+.navbar-nav .nav-link {
+  color: $body-color !important;
+
+  font-family: "Figtree", sans-serif;
+  font-size: 1.0rem;
+  font-weight: 400;
+  
+  letter-spacing: 0.05em;
+
+  padding-left: 0.75rem;
+  padding-right: 0.75rem;
+
+  transition: color 0.2s ease;
+}
+
+.navbar-nav .nav-link:hover {
+  color: $primary !important;
+}
+
+
+/* Social icons */
+
+.navbar .bi,
+.navbar .fa,
+.navbar svg {
+  color: $body-color;
+}
+
+.navbar .nav-link:hover .bi,
+.navbar .nav-link:hover .fa,
+.navbar .nav-link:hover svg {
+  color: $primary;
+}
+
+
+/* HOMEPAGE */
+
+.homepage {
+  background-color: #fffffc;
+}
+
+.home-landing {
+  display: grid;
+  grid-template-columns: 45% 55%;
+  align-items: center;
+
+  width: 100%;
+  max-width: 1250px;
+  min-height: 78vh;
+
+  margin: 0 auto;
+  padding: 4rem 3rem 5rem;
+
+  box-sizing: border-box;
+}
+
+
+/* Image */
+
+.home-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-image img {
+  display: block;
+  width: 100%;
+  max-width: 480px;
+  height: auto;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  margin: 0;
+  border-radius: 0;
+}
+
+
+/* Text */
+
+.home-text {
+  max-width: 620px;
+  padding-left: 4rem;
+}
+
+
+/* Name */
+
+.home-text h1 {
+  margin: 0 0 0.75rem;
+
+  font-size: clamp(3.25rem, 5.5vw, 5rem);
+  line-height: 0.98;
+  letter-spacing: -0.045em;
+  font-weight: 600;
+  color: $black;
+}
+
+
+/* Affiliation */
+
+.home-text .home-subtitle {
+  margin: 0 0 2.5rem;
+
+  max-width: 520px;
+
+  font-size: 1.35rem;
+  line-height: 1.4;
+  font-weight: 400;
+  letter-spacing: -0.01em;
+
+  color: $primary;
+}
+
+
+/* Description */
+
+.home-description {
+  max-width: 540px;
+
+  margin: 0;
+
+  font-size: 1.15rem;
+  line-height: 1.6;
+  font-weight: 400;
+  letter-spacing: 0;
+
+  color: $body-color;
+}
+
+
+/* Links */
+
+.home-links {
+  margin-top: 2.5rem;
+}
+
+.home-links a {
+  color: $primary;
+  font-size: 0.95rem;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.home-links a:hover {
+  text-decoration: underline;
+}
+
+
+/* Mobile */
+
+@media (max-width: 800px) {
+
+  .home-landing {
+    grid-template-columns: 1fr;
+    min-height: auto;
+    padding: 3rem 1.5rem 4rem;
+  }
+
+  .home-image {
+    order: -1;
+    margin-bottom: 3rem;
+  }
+
+  .home-image img {
+    width: 100%;
+    max-width: 380px;
+  }
+
+  .home-text {
+    max-width: 100%;
+    padding-left: 0;
+  }
+
+  .home-text h1 {
+    font-size: 3.5rem;
+  }
+
+  .home-text .home-subtitle {
+    margin-bottom: 2rem;
+  }
+
+  .home-description {
+    font-size: 1.1rem;
+  }
+}
+
+
+
+/* CONTENT PAGES */
+
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+
+/* Page titles */
+
+.quarto-title-block {
+  margin-bottom: 3rem;
+}
+
+.quarto-title .title {
+  color: $body-color;
+
+  font-family: "Figtree", sans-serif;
+
+  font-size: clamp(2.0rem, 4vw, 3rem);
+
+  font-weight: 400;
+
+  letter-spacing: -0.04em;
+}
+
+
+/* Headings */
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: $body-color;
+
+  font-family: "Figtree", sans-serif;
+
+  font-weight: 500;
+
+  letter-spacing: -0.025em;
+}
+
+h2 {
+  margin-top: 3rem;
+}
+
+h3 {
+  margin-top: 2.5rem;
+}
+
+
+/* Links */
+
+main a {
+  color: $primary;
+
+  text-decoration-thickness: 1px;
+  text-underline-offset: 3px;
+}
+
+main a:hover {
+  color: darken($primary, 10%);
+}
+
+
+/* FOOTER */
+
+.nav-footer {
+  background-color: $body-bg !important;
+
+  border-top: 1px solid #e8e5de;
+
+  padding: 2rem 2.5rem;
+
+  color: #777777;
+}
+
+.nav-footer a {
+  color: #666666;
+}
+
+.nav-footer a:hover {
+  color: $primary;
+}
+
+
+/* MOBILE */
+
+@media (max-width: 800px) {
+
+  .navbar {
+    padding: 1.25rem 1.5rem;
+  }
+
+
+  /* Stack homepage */
+
+  .home-landing {
+    grid-template-columns: 1fr;
+
+    min-height: auto;
+  }
+
+
+  /* Image first */
+
+  .home-image {
+    height: 65vh;
+
+    order: -1;
+  }
+
+
+  .home-image img {
+    width: 100%;
+    height: 100%;
+  }
+
+
+  /* Text */
+
+  .home-text {
+    max-width: none;
+
+    padding: 4rem 2rem 5rem;
+  }
+
+
+  .home-text h1 {
+    font-size: clamp(3rem, 12vw, 4.5rem);
+  }
+
+
+  .home-research {
+    margin-top: 3rem;
+
+    font-size: 1.3rem;
+  }
+
+}
+
+
+@media (max-width: 600px) {
+
+  .navbar {
+    padding: 1rem;
+  }
+
+
+  .navbar-brand {
+    font-size: 0.9rem;
+  }
+
+
+  .home-image {
+    height: 55vh;
+  }
+
+
+  .home-text {
+    padding: 3rem 1.5rem 4rem;
+  }
+
+}
+
+/* CONTENT PAGES — TITLES & BODY */
+
+body:not(.homepage) .quarto-title-block {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 1.5rem 2rem 1.5rem;
+  box-sizing: border-box;
+}
+
+body:not(.homepage) .quarto-title-block .quarto-title {
+  margin: 0;
+  padding: 0;
+}
+
+body:not(.homepage) .quarto-title-block .title {
+  margin: 0;
+  padding: 0;
+}
+
+body:not(.homepage) main.content {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+/* CONTENT PAGE TITLE ALIGNMENT */
+
+#quarto-content .quarto-title-block {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+#quarto-content .quarto-title-block .quarto-title {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+#quarto-content .quarto-title-block .title {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+
+/* Keep page title and body on the same left edge */
+
+#quarto-content main.content {
+  padding-left: 0 !important;
+}
+
+
+/* Keep the actual text readable and centered */
+
+#quarto-content main.content {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* CONTENT PAGES — TIGHTEN TITLE SPACING */
+
+body:not(.homepage) .quarto-title-block {
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
+}
+
+/* Pull the first section heading closer to the page title */
+
+body:not(.homepage) main.content h2:first-of-type {
+  margin-top: 1rem !important;
+}
+
+body:not(.homepage) main.content h3:first-of-type {
+  margin-top: 1rem !important;
+}
+
+/* ABOUT PAGE — 40 / 60 */
+
+.landing-container {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  align-items: start;
+
+  width: 100%;
+  max-width: 1200px;
+
+  margin: 0 auto;
+  padding: 2rem 2rem 3rem;
+
+  box-sizing: border-box;
+}
+
+
+/* Image */
+
+.landing-container > img,
+.about-image {
+  display: block;
+  width: 100% !important;
+  height: auto !important;
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  object-fit: cover;
+}
+
+
+/* Text */
+
+.landing-container > div {
+  width: 100%;
+  max-width: 800px;
+
+  padding-left: 2.25rem;
+
+  box-sizing: border-box;
+}
+
+.landing-container p {
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+
+  text-align: justify;
+  text-justify: inter-word;
+
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+
+/* ABOUT TITLE */
+
+.quarto-title-block {
+  width: 100%;
+  max-width: 1200px;
+
+  margin: 0 auto;
+
+  padding: 2rem 2rem 1rem;
+
+  box-sizing: border-box;
+}
+
+.quarto-title .title {
+  margin: 0;
+
+  font-size: clamp(2.75rem, 5vw, 4.5rem);
+  font-weight: 500;
+
+  line-height: 1;
+  letter-spacing: -0.05em;
+}
+
+
+/* ABOUT — MOBILE */
+
+@media (max-width: 800px) {
+
+  .landing-container {
+    grid-template-columns: 1fr;
+
+    gap: 2.5rem;
+
+    padding: 2rem 1.5rem 5rem;
+  }
+
+  .landing-container > img,
+  .about-image {
+    width: 100% !important;
+    max-width: 500px;
+  }
+
+  .landing-container > div {
+    width: 100%;
+    max-width: 100%;
+
+    padding-left: 0;
+  }
+
+  .quarto-title-block {
+    padding: 2rem 1.5rem 1rem;
+  }
+
+}
+
+main.content {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+/* Align Teaching title with page content */
+
+.quarto-title-block .title {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+  transform: translateX(-0.5rem);
+}

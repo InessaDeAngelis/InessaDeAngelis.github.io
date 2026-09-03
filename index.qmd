@@ -4,6 +4,30 @@ page-layout: full
 body-classes: homepage
 ---
 
-<div class="home-profile"> <img src="images/headshot3.jpg" class="home-avatar">
-<h1 class="home-name"> Inessa De Angelis </h1>
-<p class="home-subtitle"> PhD Candidate, Faculty of Information, University of Toronto </p>
+::: {.home-landing}
+
+::: {.home-image}
+![](images/new.jpg){fig-alt="Inessa De Angelis"}
+:::
+
+::: {.home-text}
+
+# Inessa <br> De Angelis
+
+::: {.home-subtitle}
+PhD Candidate  
+Faculty of Information <br>
+University of Toronto
+:::
+
+::: {.home-description}
+Researching the intersection of technology, politics and society
+:::
+
+
+:::
+
+:::
+
+
+
