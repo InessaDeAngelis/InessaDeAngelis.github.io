@@ -7,7 +7,7 @@ page-layout: full
 <img src="images/parliament.jpg" class="about-image"/>
 
 :::: {style="flex: 1;"}
-<p>I am a PhD candidate at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/), where I use computational and statistical methods to study how technology is changing political communication and the relationship between political actors and the public. </p>
+<p>I am a PhD candidate at the University of Toronto's [Faculty of Information](https://ischool.utoronto.ca/student-profile/inessa-de-angelis/), where I use computational and statistical methods to study how technology is affecting political communication and the relationship between political actors and the public. </p>
 
 <p> My Social Sciences and Humanities Research Council of Canada (SSHRC)-funded doctoral research examines online harassment faced by Canadian politicians as one dimension of these changing political relationships, investigating its forms, impacts, and gendered dimensions. I bring more than a decade of experience working in federal Canadian politics to this research, alongside previous experience as a Researcher at the [Pol Comm Tech Lab](https://www.polcommtech.com/) at the University of Ottawa.</p> 
 
