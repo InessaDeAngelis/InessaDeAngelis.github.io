@@ -38,7 +38,7 @@ Pre-print: <https://doi.org/10.31235/osf.io/rka7z_v2>
 #### Datasets
 
 ::: {style="text-align: left"}
-- **De Angelis, I.** (2024). Canadian Politicians on YouTube \[Data set\]. Zenodo. <https://doi.org/10.5281/zenodo.12746968>
+- **De Angelis, I.** (2024). Canadian Politicians on YouTube \[Dataset\]. Zenodo. <https://doi.org/10.5281/zenodo.12746968>
 
   </div>
 :::
